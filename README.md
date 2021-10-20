@@ -1,8 +1,8 @@
-Nama : M.Rizky Abdillah
+Nama : ramon mister hadi
 
-Nim : 312010386
+Nim : 312010508
 
-Kelas : TI 20.A2
+Kelas : TI 21 AA.1
 
 ### PENGGUNAAN GIT 
 
